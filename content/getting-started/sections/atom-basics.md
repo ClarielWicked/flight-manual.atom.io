@@ -41,7 +41,7 @@ Not only can you see and quickly search through thousands of possible commands, 
 
 For the rest of the book, we will try to be clear as to the text you can search for in the Command Palette in addition to the keybinding for different commands.
 
-#### Settings and Preferences
+#### Core Settings and Preferences
 
 Atom has a number of settings and preferences you can modify in the Settings View.
 
@@ -55,6 +55,8 @@ To open the Settings View, you can:
 * Search for `settings-view:open` in the [Command Palette](#command-palette)
 * Use the <kbd class="platform-mac">Cmd+,</kbd><kbd class="platform-windows platform-linux">Ctrl+,</kbd> keybinding
 
+#####Editor
+#####URI Handling
 ##### Changing the Theme
 
 The Settings View also lets you change the themes for Atom. Atom ships with 4 different UI themes, dark and light variants of the Atom and One theme, as well as 8 different syntax themes. You can modify the active theme by clicking on the Themes tab in the sidebar of the Settings View, or you can install new themes by clicking the Install tab.
