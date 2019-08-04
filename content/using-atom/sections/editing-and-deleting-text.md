@@ -12,8 +12,8 @@ There are a handful of cool keybindings for basic text manipulation that might c
 * <kbd class="platform-mac">Cmd+J</kbd><kbd class="platform-windows platform-linux">Ctrl+J</kbd> - Join the next line to the end of the current line
 * <kbd class="platform-mac">Cmd+Ctrl+Up/Down</kbd><kbd class="platform-windows platform-linux">Ctrl+Up/Down</kbd> - Move the current line up or down
 * <kbd class="platform-mac">Cmd+Shift+D</kbd><kbd class="platform-windows platform-linux">Ctrl+Shift+D</kbd> - Duplicate the current line
-* <kbd class="platform-mac">Cmd+K</kbd> <kbd class="platform-mac">Cmd+U</kbd><kbd class="platform-windows platform-linux">Ctrl+K</kbd> <kbd class="platform-windows platform-linux">Ctrl+U</kbd> - Upper case the current word
-* <kbd class="platform-mac">Cmd+K</kbd> <kbd class="platform-mac">Cmd+L</kbd><kbd class="platform-windows platform-linux">Ctrl+K</kbd> <kbd class="platform-windows platform-linux">Ctrl+L</kbd> - Lower case the current word
+* <kbd class="platform-mac"></kbd> <kbd class="platform-mac">Cmd+U</kbd><kbd class="platform-windows platform-linux">Ctrl+K</kbd> <kbd class="platform-windows platform-linux">Ctrl+U</kbd> - Upper case the current word
+* <kbd class="platform-mac"></kbd> <kbd class="platform-mac">Cmd+L</kbd><kbd class="platform-windows platform-linux">Ctrl+K</kbd> <kbd class="platform-windows platform-linux">Ctrl+L</kbd> - Lower case the current word
 
 {{#mac}}
 
