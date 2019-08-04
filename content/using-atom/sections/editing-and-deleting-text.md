@@ -28,14 +28,14 @@ Atom also has built in functionality to re-flow a paragraph to hard-wrap at a gi
 You can also delete or cut text out of your buffer with some shortcuts. Be ruthless.
 
 * <kbd class="platform-mac platform-windows platform-linux">Ctrl+Shift+K</kbd> - Delete current line
-* <span class="platform-mac"><kbd class="platform-mac">Alt+Backspace</kbd> or <kbd class="platform-mac">Alt+H</kbd></span><kbd class="platform-windows platform-linux">Ctrl+Backspace</kbd> - Delete to beginning of word
-* <span class="platform-mac"><kbd class="platform-mac">Alt+Delete</kbd> or <kbd class="platform-mac">Alt+D</kbd></span><kbd class="platform-windows platform-linux">Ctrl+Delete</kbd> - Delete to end of word
+* <span class="platform-mac"><kbd class="platform-mac">Alt+Backspace</kbd> or <kbd class="platform-mac">Opt+H</kbd></span><kbd class="platform-windows platform-linux"></kbd> - Delete to beginning of word
+* <span class="platform-mac"><kbd class="platform-mac">Alt+Delete</kbd> or <kbd class="platform-mac">Alt+D</kbd></span><kbd class="platform-windows platform-linux"></kbd> - Delete to end of word
 
 {{#mac}}
 
-* <kbd class="platform-mac">Cmd+Delete</kbd> - Delete to end of line
-* <kbd class="platform-mac">Ctrl+K</kbd> - Cut to end of line
-* <kbd class="platform-mac">Cmd+Backspace</kbd> - Delete to beginning of line
+* <kbd class="platform-mac">Cmd+</kbd> - Delete to end of line
+* <kbd class="platform-mac"></kbd> - Cut to end of line
+* <kbd class="platform-mac">Cmd+Delete</kbd> - Delete to beginning of line
 
 {{/mac}}
 
